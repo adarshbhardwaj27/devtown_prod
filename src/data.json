@@ -1,0 +1,58 @@
+[
+    {
+        "Productname":"iPhone X",
+        "Brand":"Apple",
+        "desc":"RAM 4GB",
+        "price": 100000,
+        "img":"img.webp",
+        "ram":4
+    },
+    {
+        "Productname":"Poco X4 Pro",
+        "Brand":"Poco",
+        "desc":"RAM 6GB",
+        "price": 20000,
+        "img":"img.webp",
+        "ram":6
+    },
+    {
+        "Productname":"Redimi Note 4",
+        "Brand":"Redimi",
+        "desc":"RAM 6GB",
+        "price": 15000,
+        "img":"img.webp",
+        "ram":6
+    },
+    {
+        "Productname":"iPhone 14",
+        "Brand":"Apple",
+        "desc":"RAM 6GB",
+        "price": 200000,
+        "img":"img.webp",
+        "ram":6
+    },
+    {
+        "Productname":"Samsumg M10",
+        "Brand":"Samsumg",
+        "desc":"RAM 8GB",
+        "price": 19000,
+        "img":"img.webp",
+        "ram":8
+    },
+    {
+        "Productname":"Vivo X2 S",
+        "Brand":"Vivo",
+        "desc":"RAM 4GB",
+        "price": 17420,
+        "img":"img.webp",
+        "ram":4
+    },
+    {
+        "Productname":"Poco X3 Slim",
+        "Brand":"Poco",
+        "desc":"RAM 8GB",
+        "price": 14300,
+        "img":"img.webp",
+        "ram":8
+    }
+]
